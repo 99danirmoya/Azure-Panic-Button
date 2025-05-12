@@ -51,8 +51,5 @@ This project is just a part of the Cloud Computing Final Assingment, which consi
 </div>
 <br/>
 
-<div align="justify">
-
-As this represents a group project, further details of other areas of the implementation will be answered privately via my e-mail with the corresponding permission of my colleagues.
-
-</div>
+> [!IMPORTANT]
+> As this represents a group project, further details of other areas of the implementation will be answered privately via my e-mail with the corresponding permission of my colleagues.
