@@ -277,7 +277,7 @@ static void setupOTA(){
   ArduinoOTA.setHostname("esp32-ota-test");
 
   // No authentication by default
-  ArduinoOTA.setPassword("trece131313");
+  ArduinoOTA.setPassword("pw0123");
   
   ArduinoOTA
     .onStart([]() {
