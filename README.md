@@ -15,7 +15,7 @@ The gadget uses as base the LilyGO T-Beam to connect to Azure IoT Hub using Azur
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Azure-Panic-Button/blob/main/Images/webapp.png" width="500"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/Azure-Panic-Button/blob/main/Images/webapp.png" width="700"  style="margin: 10px;"/>
   
   <em>Azure WebApp to display real-time data</em>
 </div>
