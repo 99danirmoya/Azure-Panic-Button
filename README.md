@@ -2,7 +2,7 @@
   
 # Azure Panic Button
 
-## Device develop for Cloud Computing Final Assingment, MIoT UPM.
+## Device develop for Cloud Computing Final Assingment, MIoT UPM course 2024/25
 
 ### A fork of EhabMagdyy's sketch to send and receive data from Azure on an ESP32: https://github.com/EhabMagdyy/ESP32-AzureIoT-SendReceiveData/tree/main
 
