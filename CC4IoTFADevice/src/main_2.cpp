@@ -660,7 +660,7 @@ static void panicISR(){
 // SETUP -------------------------------------------------------------------------------------------------------
 void setup(){
   Serial.begin(115200);
-  Serial.println(F("Panic button v2.0"));
+  Serial.println(F("Panic button v1.0"));
 
   SerialGPS.begin(GPS_BAUD_RATE, SERIAL_8N1, GPS_RX_PIN, GPS_TX_PIN);                                           // Inicializacion de la comunicacion por serial para el GPS
 
