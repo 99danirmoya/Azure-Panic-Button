@@ -19,3 +19,10 @@ As the device is battery dependant, the built-in AXP192 chip has been set up to 
 The folder to find the latest device code is **`CC4IoTFADevice`**, consisting of a PlatformIO project. The folder named `CCFADevice` is just an older version developed in Arduino IDE. The project is able to build, upload and deploy through OTA new firmware for three ESP32 at once. Each ESP32 has a "main.cpp" and "iot_config.h" file and share "AzIoTSasToken" and "SerialLogger" source and header files. This allows DevOps CI/CD at some level, even if the model is LAN-based instead of cloud-based.
 
 </div>
+
+<div align="center">
+  <img src="https://github.com/99danirmoya/Azure-Panic-Button/blob/main/Images/ci-cd-schema.jpeg" width="450"  style="margin: 10px;"/>
+  
+  <em>Proposed CI/CD schema</em>
+</div>
+<br/>
