@@ -5,40 +5,16 @@
 ******************************************************************************************************************************/
 
 // Enter Your Wifi and Password
-// #define IOT_CONFIG_WIFI_SSID "WiFi-Rguez-Moya"
-// #define IOT_CONFIG_WIFI_PASSWORD "Trece131313!"
-#define IOT_CONFIG_WIFI_SSID "Pixel_OF13"
-#define IOT_CONFIG_WIFI_PASSWORD "mynameisjeff"
-// #define IOT_CONFIG_WIFI_SSID "DIGIFIBRA-24-h3JA"
-// #define IOT_CONFIG_WIFI_PASSWORD "edaXG9qJA6"
+#define IOT_CONFIG_WIFI_SSID "SSID"
+#define IOT_CONFIG_WIFI_PASSWORD "PASSWORD"
 
-// // Azure IoT Hub - DANI
-// #define IOT_CONFIG_IOTHUB_FQDN "CCIoTHubMoya.azure-devices.net"
-// // Azure IoT Gub Device ID
-// #define IOT_CONFIG_DEVICE_ID "CCIoTFADevice"
-// // Azure IoT Hub Device Key (primary key)
-// #define IOT_CONFIG_DEVICE_KEY "x0dXQ3yrtzIulqrSdkoEMXABsGgaa/rM1GRjXP+Kt3I="
 
-// Azure IoT Hub - GROUP 7
-#define IOT_CONFIG_IOTHUB_FQDN "group7-hub.azure-devices.net"
+// Azure IoT Hub
+#define IOT_CONFIG_IOTHUB_FQDN "<IoT_Hub_Name>.azure-devices.net"
 // Azure IoT Gub Device ID
-#define IOT_CONFIG_DEVICE_ID "CC4IoTFADevice"
+#define IOT_CONFIG_DEVICE_ID "DEVICE_ID"
 // Azure IoT Hub Device Key (primary key)
-#define IOT_CONFIG_DEVICE_KEY "ftRJRWcwXg9VrrD970CPBuqqJFDyBYuMAnlW5p9mUlU="
+#define IOT_CONFIG_DEVICE_KEY "DEVICE_KEY"
 
-// // Azure IoT Hub - ALVARO
-// #define IOT_CONFIG_IOTHUB_FQDN "alvaroIoTHub.azure-devices.net"
-// // Azure IoT Gub Device ID
-// #define IOT_CONFIG_DEVICE_ID "sensor_dani"
-// // Azure IoT Hub Device Key (primary key)
-// #define IOT_CONFIG_DEVICE_KEY "kYDMMLKUEb5wr4g1/3+6oWUyZtzlwPZFWaPv60qPNf0="
-
-// // Azure IoT Hub - ALEX
-// #define IOT_CONFIG_IOTHUB_FQDN "hub-final7.azure-devices.net"
-// // Azure IoT Gub Device ID
-// #define IOT_CONFIG_DEVICE_ID "CC4IoTFADevice"
-// // Azure IoT Hub Device Key (primary key)
-// #define IOT_CONFIG_DEVICE_KEY "SRiKm350+nZ4vC8/M1t7MV+rUxL9NjNomNo2Cx2ulCI="
-
-// Publish 1 message every X (milli)seconds
-#define TELEMETRY_FREQUENCY_MILLISECS 30000
+// Publish 1 message every 5 seconds
+#define TELEMETRY_FREQUENCY_MILLISECS 5000
