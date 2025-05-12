@@ -1,6 +1,6 @@
 # Azure Panic Button
 
-## Device develop for Cloud Computing course, MIoT UPM.
+## Device develop for Cloud Computing Final Assingment, MIoT UPM.
 
 <div align="center">
 
@@ -26,3 +26,22 @@ The folder to find the latest device code is **`CC4IoTFADevice`**, consisting of
   <em>Proposed CI/CD schema</em>
 </div>
 <br/>
+
+<div align="justify">
+
+This project is just a part of the Cloud Computing Final Assingment, which consists of the following Azure Cloud architecture:
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/99danirmoya/Azure-Panic-Button/blob/main/Images/software-architecture.jpeg" width="750"  style="margin: 10px;"/>
+  
+  <em>Full Azure Cloud architecture</em>
+</div>
+<br/>
+
+<div align="justify">
+
+As this represents a group project, further details of other areas of the implementation will be answered privately via my e-mail with the corresponding permission of my colleagues.
+
+</div>
